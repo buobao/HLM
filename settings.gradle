@@ -1,0 +1,3 @@
+include ':panorama'
+include ':app', ':mklib'
+rootProject.name='HLM'
